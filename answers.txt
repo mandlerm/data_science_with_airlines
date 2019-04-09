@@ -1,0 +1,9 @@
+NK,2.5645483786838215%
+B
+N947JB
+10397
+13930
+11433
+2919
+22,46,N845DN
+What airport is the most popular destination: 32750 arrivals, for airport 10397
